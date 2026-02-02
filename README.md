@@ -68,14 +68,9 @@ principles:
   </table>
 </div>
 
-### 📊 Extra Stats
+### 📊 Streak Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=avelone123123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=avelone123123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avelone123123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=avelone123123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🤝 Let's Connect
