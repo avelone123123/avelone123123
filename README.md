@@ -39,14 +39,15 @@
 ### 📊 GitHub Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avelone123123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelone123123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avelone123123&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelone123123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180px" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avelone123123&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=avelone123123&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" alt="Streak Stats" />
 </div>
 
 ---
