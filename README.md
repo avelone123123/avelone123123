@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ermekuly%20Eraly&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Mobile%20%26%20Web%20Builder%20%7C%20Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,0077FF,00D9FF&height=240&section=header&text=Ermekuly%20Eraly&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Mobile%20%26%20Web%20Builder%20%7C%20Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF&descAlignY=60&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1600&color=00D9FF&center=true&vCenter=true&width=980&lines=Building+products+that+actually+ship;React+Native+%7C+Flutter+%7C+NestJS+%7C+Node.js;Discipline+%3E+Motivation" alt="Typing SVG" />
 
@@ -33,6 +33,7 @@
 
 ## 🧠 About Me
 
+```yaml
 name: "Ermekuly Eraly"
 location: "Kazakhstan 🇰🇿"
 focus: "Full-stack apps, mobile, admin panels, product delivery"
@@ -47,23 +48,43 @@ principles:
   - "Ship > perfect"
   - "Discipline beats motivation"
   - "Numbers > vibes"
-⚡ Contribution Activity
-<div align="center"> <img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3Davelone123123%26theme%3Dtokyonight" alt="Profile Details" /> </div>
+```
 
-<div align="center"> <table border="0"> <tr> <td><img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3Davelone123123%26theme%3Dtokyonight" alt="Top languages by repo" /></td> <td><img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Davelone123123%26theme%3Dtokyonight" alt="Top languages by commit" /></td> </tr> <tr> <td><img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Davelone123123%26theme%3Dtokyonight" alt="Stats" /></td> <td><img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Davelone123123%26theme%3Dtokyonight%26utcOffset%3D5" alt="Productive Time" /></td> </tr> </table> </div>
+### ⚡ Contribution Activity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avelone123123&theme=tokyonight" alt="Profile Details" />
+</div>
 
-📊 Extra Stats
-<div align="center"> <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Davelone123123%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26rank_icon%3Dgithub" alt="GitHub Stats" /> <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Davelone123123%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" /> </div>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avelone123123&theme=tokyonight" alt="Top languages by repo" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avelone123123&theme=tokyonight" alt="Top languages by commit" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avelone123123&theme=tokyonight" alt="Stats" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avelone123123&theme=tokyonight&utcOffset=5" alt="Productive Time" /></td>
+    </tr>
+  </table>
+</div>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Davelone123123%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" /> </div>
+### 📊 Extra Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=avelone123123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelone123123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-🤝 Let's Connect
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=avelone123123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🤝 Let's Connect
 Open to collaborations, freelance work, and building real products.
 
-Email: ermekeraly16@gmail.com
+- **Email**: [ermekeraly16@gmail.com](mailto:ermekeraly16@gmail.com)
+- **Telegram**: [@ttrrummppp](https://t.me/ttrrummppp)
+- **Instagram**: [ermekullyy](https://www.instagram.com/ermekullyy)
 
-Telegram: https://t.me/ttrrummppp
-
-Instagram: https://www.instagram.com/ermekullyy
-
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" /> </div>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,0077FF,00D9FF&height=140&section=footer&animation=twinkling" />
+</div>
