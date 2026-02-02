@@ -60,10 +60,4 @@
 - ⚡ Fun fact: I believe that **clean code is written for humans**, not machines.
 - 🌍 Based in **Kazakhstan 🇰🇿**
 
----
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avelone123123&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</div>
