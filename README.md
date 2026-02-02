@@ -33,7 +33,6 @@
 
 ## 🧠 About Me
 
-```yaml
 name: "Ermekuly Eraly"
 location: "Kazakhstan 🇰🇿"
 focus: "Full-stack apps, mobile, admin panels, product delivery"
