@@ -1,85 +1,54 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,0077FF,00D9FF&height=240&section=header&text=Ermekuly%20Eraly&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Mobile%20%26%20Web%20Builder%20%7C%20Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF&descAlignY=60&descSize=18" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1600&color=00D9FF&center=true&vCenter=true&width=980&lines=Building+products+that+actually+ship;React+Native+%7C+Flutter+%7C+NestJS+%7C+Node.js;Discipline+%3E+Motivation" alt="Typing SVG" />
-
-<br/>
+<h1 align="center">Ermekuly Eraly</h1>
 
 <p align="center">
-  <a href="https://github.com/avelone123123">
-    <img src="https://img.shields.io/badge/GitHub-avelone123123-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:ermekeraly16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ermekeraly16%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/ttrrummppp">
-    <img src="https://img.shields.io/badge/Telegram-@ttrrummppp-0D1117?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ermekullyy?igsh=MThodDJscXU2aGtjMA==">
-    <img src="https://img.shields.io/badge/Instagram-ermekullyy-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  Full-stack developer from Kazakhstan 🇰🇿<br/>
+  I build mobile apps, web apps and admin panels, and ship them to real users.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avelone123123&style=flat-square&color=00D9FF&label=Views" />
-  <img src="https://img.shields.io/github/followers/avelone123123?label=Followers&style=flat-square&color=00D9FF&labelColor=0D1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/avelone123123?label=Stars&style=flat-square&color=00D9FF&labelColor=0D1117&logo=github" />
+  <a href="mailto:ermekeraly16@gmail.com"><img src="https://img.shields.io/badge/Email-0077FF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/ttrrummppp"><img src="https://img.shields.io/badge/Telegram-0077FF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/ermekullyy"><img src="https://img.shields.io/badge/Instagram-0077FF?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
-</div>
 
 ---
 
-## 🧠 About Me
+### What I do
 
-```yaml
-name: "Ermekuly Eraly"
-location: "Kazakhstan 🇰🇿"
-focus: "Full-stack apps, mobile, admin panels, product delivery"
+- 📱 **Mobile:** cross-platform apps with React Native and Flutter
+- ⚙️ **Backend:** REST APIs with NestJS and Node.js
+- 🖥️ **Web:** dashboards and admin panels, deployed on Vercel
+- 🚀 **Delivery:** from idea to a working product, with CI/CD
 
-stack:
-  mobile: ["React Native", "Flutter"]
-  backend: ["NestJS", "Node.js", "REST API"]
-  database: ["PostgreSQL", "MongoDB"]
-  tooling: ["GitHub", "Vercel", "CI/CD"]
+### Stack
 
-principles:
-  - "Ship > perfect"
-  - "Discipline beats motivation"
-  - "Numbers > vibes"
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,ts,js,nodejs,nestjs,postgres,mongodb,git,github,vercel&theme=dark" alt="Tech stack" />
+</p>
 
-### ⚡ Contribution Activity
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avelone123123&theme=tokyonight" alt="Profile Details" />
-</div>
+### GitHub stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avelone123123&theme=tokyonight" alt="Top languages by repo" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avelone123123&theme=tokyonight" alt="Top languages by commit" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avelone123123&theme=tokyonight" alt="Stats" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avelone123123&theme=tokyonight&utcOffset=5" alt="Productive Time" /></td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avelone123123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelone123123&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-### 📊 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=avelone123123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p>
+  <img src="https://streak-stats.demolab.com?user=avelone123123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-### 🤝 Let's Connect
-Open to collaborations, freelance work, and building real products.
+<!--
+Featured projects: replace REPO with a repository name and uncomment.
 
-- **Email**: [ermekeraly16@gmail.com](mailto:ermekeraly16@gmail.com)
-- **Telegram**: [@ttrrummppp](https://t.me/ttrrummppp)
-- **Instagram**: [ermekullyy](https://www.instagram.com/ermekullyy)
+### Projects
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,0077FF,00D9FF&height=140&section=footer&animation=twinkling" />
-</div>
+<a href="https://github.com/avelone123123/REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avelone123123&repo=REPO&theme=tokyonight&hide_border=true" />
+</a>
+-->
+
+---
+
+<p align="center">
+  Open to freelance work and collaborations. Write me on <a href="https://t.me/ttrrummppp">Telegram</a>.
+</p>
